@@ -1,0 +1,100 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "the Sprawl",
+	"icon": "https://micro.blog/TabTwo/avatar.jpg",
+	"home_page_url": "https://www.the-sprawl.blog/",
+	"feed_url": "https://www.the-sprawl.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://TabTwo.micro.blog/2022/03/19/pizza-from-scratch.html",
+				
+				"content_html": "<p>Pizza from scratch</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Pizza from scratch \n\n<img src=\"uploads/2022/5d97084604.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-03-19T20:06:52+01:00",
+				"url": "https://www.the-sprawl.blog/2022/03/19/pizza-from-scratch.html"
+			},
+			{
+				"id": "http://TabTwo.micro.blog/2022/03/19/princess-food.html",
+				
+				"content_html": "<p>Princess food</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Princess food\n\n<img src=\"uploads/2022/fc15249cdf.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-03-19T08:47:52+01:00",
+				"url": "https://www.the-sprawl.blog/2022/03/19/princess-food.html"
+			},
+			{
+				"id": "http://TabTwo.micro.blog/2022/03/18/homeoffice-is-hard.html",
+				
+				"content_html": "<p>Homeoffice is hard</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Homeoffice is hard\n\n<img src=\"uploads/2022/68057e25b4.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-03-18T13:27:47+01:00",
+				"url": "https://www.the-sprawl.blog/2022/03/18/homeoffice-is-hard.html"
+			},
+			{
+				"id": "http://TabTwo.micro.blog/2022/03/18/neues-tool-logseq.html",
+				"title": "neues Tool - Logseq",
+				"content_html": "<p>Aktuell schaue ich mit <a href=\"https://logseq.com\">logseq</a> als Tool zur Konsolidierung aller Aufschriebe, abgespeicherten Webseiten, usw. an. Ist von Emacs-org-Mode bzw. Roam inspiriert. Nicht ganz so mächtig aber eben auch deutlich schlanker als ein Emacs. Hauptvorteil, es werden lokale Daten verwendet, keine fremder Cloud-Mist. Weiteres Plus, die Daten liegen im MarkDown-Format vor, können also problemlos weiterverarbeitet werden.</p>\n",
+				"content_text": "Aktuell schaue ich mit [logseq](https://logseq.com) als Tool zur Konsolidierung aller Aufschriebe, abgespeicherten Webseiten, usw. an. Ist von Emacs-org-Mode bzw. Roam inspiriert. Nicht ganz so mächtig aber eben auch deutlich schlanker als ein Emacs. Hauptvorteil, es werden lokale Daten verwendet, keine fremder Cloud-Mist. Weiteres Plus, die Daten liegen im MarkDown-Format vor, können also problemlos weiterverarbeitet werden. \n",
+				"date_published": "2022-03-18T11:17:15+01:00",
+				"url": "https://www.the-sprawl.blog/2022/03/18/neues-tool-logseq.html",
+				"tags": ["logseq"]
+			},
+			{
+				"id": "http://TabTwo.micro.blog/2022/03/17/forsythie.html",
+				
+				"content_html": "<p>Forsythie</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Forsythie\n\n<img src=\"uploads/2022/677380a7b8.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-03-17T12:06:18+01:00",
+				"url": "https://www.the-sprawl.blog/2022/03/17/forsythie.html"
+			},
+			{
+				"id": "http://TabTwo.micro.blog/2022/03/16/local-park.html",
+				
+				"content_html": "<p>local park</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "local park\n\n<img src=\"uploads/2022/fc04907d07.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-03-16T12:28:03+01:00",
+				"url": "https://www.the-sprawl.blog/2022/03/16/local-park.html"
+			},
+			{
+				"id": "http://TabTwo.micro.blog/2022/03/15/kleiner-wasserschaden.html",
+				
+				"content_html": "<p>Kleiner Wasserschaden</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Kleiner Wasserschaden\n\n<img src=\"uploads/2022/9a8da51b81.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/3fa628504d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-03-15T11:54:28+01:00",
+				"url": "https://www.the-sprawl.blog/2022/03/15/kleiner-wasserschaden.html"
+			},
+			{
+				"id": "http://TabTwo.micro.blog/2022/03/14/mondays-are-the.html",
+				
+				"content_html": "<p>Mondays are the best days</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Mondays are the best days\n\n<img src=\"uploads/2022/12195d1bc4.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-03-14T10:26:50+01:00",
+				"url": "https://www.the-sprawl.blog/2022/03/14/mondays-are-the.html"
+			},
+			{
+				"id": "http://TabTwo.micro.blog/2022/03/13/just-a-common.html",
+				
+				"content_html": "<p>Just a common bitch</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Just a common bitch\n\n<img src=\"uploads/2022/543d9338d3.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-03-13T09:36:00+01:00",
+				"url": "https://www.the-sprawl.blog/2022/03/13/just-a-common.html",
+				"tags": ["B99"]
+			},
+			{
+				"id": "http://TabTwo.micro.blog/2022/03/12/end-of-book.html",
+				"title": "End of book - Change Agent",
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781101984673\">Change Agent</a> by Daniel Suarez 📚</p>\n<p>I really like Daniels Suarezs books because they are science fiction. But a fiction that feels like its just around the corner. For example, the main character rents a self-driving car. Something that is described in the current reality as something very cool and car manufacturers dream about everybody wanting this. But Suarez goes deeper. He takes this topic and shows a possible future how this could evolve. Just a tiny detail in this fantastic story, but something that really stuck with me.</p>\n<p>If you like science fiction  but you are not into aliens and space travel because you read it all a dozen time, this might be a book for you.</p>\n<p>I really enjoyed reading it and I really hope degan is going to be a thing real soon.</p>\n",
+				"content_text": "Finished reading: [Change Agent](https://micro.blog/books/9781101984673) by Daniel Suarez 📚\n\nI really like Daniels Suarezs books because they are science fiction. But a fiction that feels like its just around the corner. For example, the main character rents a self-driving car. Something that is described in the current reality as something very cool and car manufacturers dream about everybody wanting this. But Suarez goes deeper. He takes this topic and shows a possible future how this could evolve. Just a tiny detail in this fantastic story, but something that really stuck with me.\n\nIf you like science fiction  but you are not into aliens and space travel because you read it all a dozen time, this might be a book for you. \n\nI really enjoyed reading it and I really hope degan is going to be a thing real soon.\n",
+				"date_published": "2022-03-12T22:38:14+01:00",
+				"url": "https://www.the-sprawl.blog/2022/03/12/end-of-book.html"
+			},
+			{
+				"id": "http://TabTwo.micro.blog/2022/03/12/so-back-to.html",
+				"title": "The usual first post",
+				"content_html": "<p>So, back to blogging</p>\n",
+				"content_text": "So, back to blogging \n",
+				"date_published": "2022-03-12T22:15:00+01:00",
+				"url": "https://www.the-sprawl.blog/2022/03/12/so-back-to.html"
+			}
+	]
+}
