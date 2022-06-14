@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tabtwo.micro.blog/2022/06/14/rwert-bei-und.html",
+				
+				"content_html": "<p>R-Wert bei 1,24 und alle Landkreise Safe über 100. Zum Glück ist das ja alles vorbei.</p>\n",
+				"content_text": "R-Wert bei 1,24 und alle Landkreise Safe über 100. Zum Glück ist das ja alles vorbei. \n",
+				"date_published": "2022-06-14T21:30:11+02:00",
+				"url": "https://www.the-sprawl.blog/2022/06/14/rwert-bei-und.html"
+			},
+			{
+				"id": "http://tabtwo.micro.blog/2022/06/13/cisco-asas-just.html",
+				
+				"content_html": "<p>Cisco ASAs just suck. I need a shower every time I touch them because they are so ugly.</p>\n",
+				"content_text": "Cisco ASAs just suck. I need a shower every time I touch them because they are so ugly. \n",
+				"date_published": "2022-06-13T16:52:59+02:00",
+				"url": "https://www.the-sprawl.blog/2022/06/13/cisco-asas-just.html"
+			},
+			{
+				"id": "http://tabtwo.micro.blog/2022/06/10/my-back-hurts.html",
+				
+				"content_html": "<p>My back hurts</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My back hurts\n\n<img src=\"uploads/2022/984bbd2be4.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-06-10T09:10:54+02:00",
+				"url": "https://www.the-sprawl.blog/2022/06/10/my-back-hurts.html"
+			},
+			{
+				"id": "http://tabtwo.micro.blog/2022/06/08/please-ship-me.html",
+				
+				"content_html": "<p>Please, ship me one pice</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Please, ship me one pice\n\n<img src=\"uploads/2022/bb9f7960d6.jpg\" width=\"600\" height=\"331\" alt=\"\" />\n",
+				"date_published": "2022-06-08T22:45:39+02:00",
+				"url": "https://www.the-sprawl.blog/2022/06/08/please-ship-me.html"
+			},
+			{
 				"id": "http://tabtwo.micro.blog/2022/06/06/rouladen-mit-selbstgemachten.html",
 				
 				"content_html": "<p>Rouladen mit selbstgemachten Spätzle</p>\n<!-- raw HTML omitted -->\n",
@@ -41,8 +73,8 @@
 			{
 				"id": "http://tabtwo.micro.blog/2022/06/02/netzwerken-die-von.html",
 				
-				"content_html": "<p>Netzwerken, die von Klassen reden, kann ich nicht ernst nehmen.</p>\n",
-				"content_text": "Netzwerken, die von Klassen reden, kann ich nicht ernst nehmen. \n",
+				"content_html": "<p>Netzwerker, die von Klassen reden, kann ich nicht ernst nehmen.</p>\n",
+				"content_text": "Netzwerker, die von Klassen reden, kann ich nicht ernst nehmen. \n",
 				"date_published": "2022-06-02T09:25:31+02:00",
 				"url": "https://www.the-sprawl.blog/2022/06/02/netzwerken-die-von.html"
 			},
@@ -58,7 +90,7 @@
 				"id": "http://tabtwo.micro.blog/2022/06/01/return-to-the.html",
 				
 				"content_html": "<p>Return to the jungle</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Return to the jungle\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/cc9177ce08.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Return to the jungle\n\n<img src=\"uploads/2022/cc9177ce08.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-01T08:42:23+02:00",
 				"url": "https://www.the-sprawl.blog/2022/06/01/return-to-the.html"
 			},
@@ -90,7 +122,7 @@
 				"id": "http://tabtwo.micro.blog/2022/05/29/stern-spie-so.html",
 				
 				"content_html": "<p>Stern Spieß, so geil</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Stern Spieß, so geil\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/3550e39b91.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Stern Spieß, so geil\n\n<img src=\"uploads/2022/3550e39b91.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-29T18:25:51+02:00",
 				"url": "https://www.the-sprawl.blog/2022/05/29/stern-spie-so.html"
 			},
@@ -122,7 +154,7 @@
 				"id": "http://tabtwo.micro.blog/2022/05/24/frische-erdbeermarmelade-aus.html",
 				
 				"content_html": "<p>frische Erdbeer-Marmelade aus dem Thermo, der Hammer</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "frische Erdbeer-Marmelade aus dem Thermo, der Hammer\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/0f1814e43b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "frische Erdbeer-Marmelade aus dem Thermo, der Hammer\n\n<img src=\"uploads/2022/0f1814e43b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-24T20:30:41+02:00",
 				"url": "https://www.the-sprawl.blog/2022/05/24/frische-erdbeermarmelade-aus.html"
 			},
@@ -130,7 +162,7 @@
 				"id": "http://tabtwo.micro.blog/2022/05/24/wenn-eine-gute.html",
 				
 				"content_html": "<p>Wenn eine gute Freundin einfach mal eine leckere Lasagne vorbeibringt. Einfach der Hammer.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Wenn eine gute Freundin einfach mal eine leckere Lasagne vorbeibringt. Einfach der Hammer. \n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/7e9a8a9b76.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.the-sprawl.blog/uploads/2022/b33fac249f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Wenn eine gute Freundin einfach mal eine leckere Lasagne vorbeibringt. Einfach der Hammer. \n\n<img src=\"uploads/2022/7e9a8a9b76.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/b33fac249f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-24T15:03:55+02:00",
 				"url": "https://www.the-sprawl.blog/2022/05/24/wenn-eine-gute.html"
 			},
@@ -138,7 +170,7 @@
 				"id": "http://tabtwo.micro.blog/2022/05/23/gift-i-got.html",
 				
 				"content_html": "<p>Gift I got from my doctor</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Gift I got from my doctor \n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/027b0012d5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Gift I got from my doctor \n\n<img src=\"uploads/2022/027b0012d5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-23T19:37:11+02:00",
 				"url": "https://www.the-sprawl.blog/2022/05/23/gift-i-got.html"
 			},
@@ -146,7 +178,7 @@
 				"id": "http://TabTwo.micro.blog/2022/05/23/tiny-flower.html",
 				
 				"content_html": "<p>Tiny flower</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tiny flower\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/a83f53217f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Tiny flower\n\n<img src=\"uploads/2022/a83f53217f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-23T13:32:53+02:00",
 				"url": "https://www.the-sprawl.blog/2022/05/23/tiny-flower.html"
 			},
@@ -162,7 +194,7 @@
 				"id": "http://TabTwo.micro.blog/2022/05/18/kampen-wir-kommen.html",
 				
 				"content_html": "<p>Kampen, wir kommen</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Kampen, wir kommen\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/477e070c18.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_text": "Kampen, wir kommen\n\n<img src=\"uploads/2022/477e070c18.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2022-05-18T23:31:47+02:00",
 				"url": "https://www.the-sprawl.blog/2022/05/18/kampen-wir-kommen.html"
 			},
@@ -170,7 +202,7 @@
 				"id": "http://TabTwo.micro.blog/2022/05/18/bei-nem-kseblatt.html",
 				
 				"content_html": "<p>Bei nem Käseblatt gut aufgehoben</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Bei nem Käseblatt gut aufgehoben \n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/4d7221c30f.jpg\" width=\"600\" height=\"204\" alt=\"\" />\n",
+				"content_text": "Bei nem Käseblatt gut aufgehoben \n\n<img src=\"uploads/2022/4d7221c30f.jpg\" width=\"600\" height=\"204\" alt=\"\" />\n",
 				"date_published": "2022-05-18T20:22:32+02:00",
 				"url": "https://www.the-sprawl.blog/2022/05/18/bei-nem-kseblatt.html"
 			},
@@ -186,7 +218,7 @@
 				"id": "http://TabTwo.micro.blog/2022/05/16/bee-sting-two.html",
 				
 				"content_html": "<p>Bee sting, two days later. Probably a zombie bee</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Bee sting, two days later. Probably a zombie bee\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/772d12d1e2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Bee sting, two days later. Probably a zombie bee\n\n<img src=\"uploads/2022/772d12d1e2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-16T09:09:56+02:00",
 				"url": "https://www.the-sprawl.blog/2022/05/16/bee-sting-two.html"
 			},
@@ -194,7 +226,7 @@
 				"id": "http://TabTwo.micro.blog/2022/05/14/two-seconds-later.html",
 				
 				"content_html": "<p>Two seconds later, while posting the book cover, a bee stung me.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Two seconds later, while posting the book cover, a bee stung me. \n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/ca5bccd22c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Two seconds later, while posting the book cover, a bee stung me. \n\n<img src=\"uploads/2022/ca5bccd22c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-14T18:29:00+02:00",
 				"url": "https://www.the-sprawl.blog/2022/05/14/two-seconds-later.html",
 				"tags": ["dafuq"]
@@ -203,7 +235,7 @@
 				"id": "http://TabTwo.micro.blog/2022/05/14/something-to-calm.html",
 				
 				"content_html": "<p>Something to calm down</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Something to calm down\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/12dd5227b8.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Something to calm down\n\n<img src=\"uploads/2022/12dd5227b8.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-14T18:22:14+02:00",
 				"url": "https://www.the-sprawl.blog/2022/05/14/something-to-calm.html"
 			},
@@ -219,7 +251,7 @@
 				"id": "http://TabTwo.micro.blog/2022/05/13/what-else.html",
 				
 				"content_html": "<p>42, what else?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "42, what else?\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/55cd403068.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "42, what else?\n\n<img src=\"uploads/2022/55cd403068.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-13T11:24:05+02:00",
 				"url": "https://www.the-sprawl.blog/2022/05/13/what-else.html"
 			},
@@ -227,7 +259,7 @@
 				"id": "http://TabTwo.micro.blog/2022/05/02/kaktus-oder-igel.html",
 				
 				"content_html": "<p>Kaktus oder Igel</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Kaktus oder Igel\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/a2e9bd95af.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.the-sprawl.blog/uploads/2022/babcdb9da9.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Kaktus oder Igel\n\n<img src=\"uploads/2022/a2e9bd95af.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/babcdb9da9.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-02T18:54:26+02:00",
 				"url": "https://www.the-sprawl.blog/2022/05/02/kaktus-oder-igel.html"
 			},
@@ -235,7 +267,7 @@
 				"id": "http://TabTwo.micro.blog/2022/05/01/ostern-ist-immer.html",
 				
 				"content_html": "<p>Ostern ist immer</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ostern ist immer\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/5c6fd8e9cd.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Ostern ist immer\n\n<img src=\"uploads/2022/5c6fd8e9cd.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-01T11:29:08+02:00",
 				"url": "https://www.the-sprawl.blog/2022/05/01/ostern-ist-immer.html"
 			},
@@ -243,7 +275,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/30/speed.html",
 				
 				"content_html": "<p>Speed</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Speed\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/5a6707fa9b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Speed\n\n<img src=\"uploads/2022/5a6707fa9b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-30T14:21:26+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/30/speed.html"
 			},
@@ -251,7 +283,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/28/kaiserschmarren-so-gut.html",
 				
 				"content_html": "<p>Kaiserschmarren, so gut</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Kaiserschmarren, so gut\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/2c39825920.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Kaiserschmarren, so gut\n\n<img src=\"uploads/2022/2c39825920.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-28T14:32:10+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/28/kaiserschmarren-so-gut.html"
 			},
@@ -259,7 +291,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/27/dropping-all-restrictions.html",
 				
 				"content_html": "<p>Dropping all restrictions works like intended</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Dropping all restrictions works like intended \n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/5b43fdc697.png\" width=\"277\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Dropping all restrictions works like intended \n\n<img src=\"uploads/2022/5b43fdc697.png\" width=\"277\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-27T10:21:36+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/27/dropping-all-restrictions.html"
 			},
@@ -267,7 +299,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/26/butterfly.html",
 				
 				"content_html": "<p>Butterfly</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Butterfly \n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/e5a77e97f2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Butterfly \n\n<img src=\"uploads/2022/e5a77e97f2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-26T20:43:45+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/26/butterfly.html"
 			},
@@ -275,7 +307,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/25/strawberries.html",
 				
 				"content_html": "<p>Strawberries</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Strawberries \n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/07e2dfee0b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Strawberries \n\n<img src=\"uploads/2022/07e2dfee0b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-25T16:18:47+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/25/strawberries.html"
 			},
@@ -283,7 +315,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/24/isopods.html",
 				
 				"content_html": "<p>Isopods</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Isopods\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/2cbf43d60e.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.the-sprawl.blog/uploads/2022/499f1b8182.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Isopods\n\n<img src=\"uploads/2022/2cbf43d60e.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/499f1b8182.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-24T12:35:43+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/24/isopods.html"
 			},
@@ -291,7 +323,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/23/ham.html",
 				
 				"content_html": "<p>HAM</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "HAM\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/d8572e22cd.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "HAM\n\n<img src=\"uploads/2022/d8572e22cd.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-23T18:52:45+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/23/ham.html"
 			},
@@ -299,7 +331,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/22/hacked.html",
 				
 				"content_html": "<p>Hacked</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hacked\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/f6980c7d99.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Hacked\n\n<img src=\"uploads/2022/f6980c7d99.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-22T14:42:51+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/22/hacked.html"
 			},
@@ -307,7 +339,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/21/sheep.html",
 				
 				"content_html": "<p>Sheep</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sheep\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/5ac05e73ef.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Sheep\n\n<img src=\"uploads/2022/5ac05e73ef.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-21T14:21:43+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/21/sheep.html"
 			},
@@ -315,7 +347,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/20/feuerbach.html",
 				
 				"content_html": "<p>Feuerbach</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Feuerbach\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/d2f2fcbb43.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Feuerbach\n\n<img src=\"uploads/2022/d2f2fcbb43.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-20T10:28:16+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/20/feuerbach.html"
 			},
@@ -323,7 +355,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/20/gotta-love-them.html",
 				
 				"content_html": "<p>Gotta love them</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Gotta love them\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/7b86f2cd10.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Gotta love them\n\n<img src=\"uploads/2022/7b86f2cd10.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-20T10:08:59+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/20/gotta-love-them.html"
 			},
@@ -331,7 +363,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/19/kaffee-geht-immer.html",
 				
 				"content_html": "<p>Kaffee geht immer</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Kaffee geht immer\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/cc0219d7da.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Kaffee geht immer\n\n<img src=\"uploads/2022/cc0219d7da.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-19T14:16:16+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/19/kaffee-geht-immer.html"
 			},
@@ -339,7 +371,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/19/ja-meer-in.html",
 				
 				"content_html": "<p>Ja, Meer in Stuttgart wäre klasse</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ja, Meer in Stuttgart wäre klasse\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/9647a76432.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Ja, Meer in Stuttgart wäre klasse\n\n<img src=\"uploads/2022/9647a76432.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-19T10:47:43+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/19/ja-meer-in.html"
 			},
@@ -347,7 +379,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/18/aftermath.html",
 				
 				"content_html": "<p>Aftermath</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Aftermath \n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/a56dae231c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Aftermath \n\n<img src=\"uploads/2022/a56dae231c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-18T17:27:44+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/18/aftermath.html"
 			},
@@ -355,7 +387,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/17/frohe-ostern.html",
 				
 				"content_html": "<p>Frohe Ostern!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Frohe Ostern!\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/fb917f86a5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Frohe Ostern!\n\n<img src=\"uploads/2022/fb917f86a5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-17T09:28:37+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/17/frohe-ostern.html"
 			},
@@ -363,7 +395,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/16/antleg-for-lunch.html",
 				
 				"content_html": "<p>Ant-leg for lunch?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ant-leg for lunch?\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/edaf90ad5d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Ant-leg for lunch?\n\n<img src=\"uploads/2022/edaf90ad5d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-16T16:11:07+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/16/antleg-for-lunch.html"
 			},
@@ -371,7 +403,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/15/oh-my-god.html",
 				
 				"content_html": "<p>Oh my god!!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Oh my god!!\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/2c31b44538.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Oh my god!!\n\n<img src=\"uploads/2022/2c31b44538.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-15T10:31:16+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/15/oh-my-god.html"
 			},
@@ -379,7 +411,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/14/bunny.html",
 				
 				"content_html": "<p>Bunny</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Bunny\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/8b67e864dc.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Bunny\n\n<img src=\"uploads/2022/8b67e864dc.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-14T19:30:39+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/14/bunny.html"
 			},
@@ -395,7 +427,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/13/who-you-gonna.html",
 				
 				"content_html": "<p>Who you gonna call?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Who you gonna call?\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/fa3d22aaa3.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Who you gonna call?\n\n<img src=\"uploads/2022/fa3d22aaa3.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-13T21:19:36+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/13/who-you-gonna.html"
 			},
@@ -419,7 +451,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/12/agent-reactivated.html",
 				
 				"content_html": "<p>Agent reactivated</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Agent reactivated\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/5db71dee02.png\" width=\"277\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Agent reactivated\n\n<img src=\"uploads/2022/5db71dee02.png\" width=\"277\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-12T11:48:20+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/12/agent-reactivated.html"
 			},
@@ -427,7 +459,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/10/shrimplets.html",
 				
 				"content_html": "<p>Shrimplets</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Shrimplets \n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/ec5496bc90.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Shrimplets \n\n<img src=\"uploads/2022/ec5496bc90.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-10T18:11:18+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/10/shrimplets.html"
 			},
@@ -435,7 +467,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/10/partypferd-by-kind.html",
 				
 				"content_html": "<p>Party-Pferd by Kind</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Party-Pferd by Kind\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/b7dca8c67f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Party-Pferd by Kind\n\n<img src=\"uploads/2022/b7dca8c67f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-10T17:24:49+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/10/partypferd-by-kind.html"
 			},
@@ -443,7 +475,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/09/newest-addition-to.html",
 				
 				"content_html": "<p>Newest addition to the office</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Newest addition to the office \n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/f91d1eb90c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Newest addition to the office \n\n<img src=\"uploads/2022/f91d1eb90c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-09T22:12:31+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/09/newest-addition-to.html"
 			},
@@ -459,7 +491,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/08/kantapper-kantapper.html",
 				
 				"content_html": "<p>Kantapper, Kantapper</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Kantapper, Kantapper\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/599bb29a8f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Kantapper, Kantapper\n\n<img src=\"uploads/2022/599bb29a8f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-08T17:12:49+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/08/kantapper-kantapper.html"
 			},
@@ -476,7 +508,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/07/old-vs-new.html",
 				
 				"content_html": "<p>Old vs. New</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Old vs. New\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/6bd55875c0.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Old vs. New\n\n<img src=\"uploads/2022/6bd55875c0.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-07T20:13:02+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/07/old-vs-new.html"
 			},
@@ -484,7 +516,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/07/fire-in-the.html",
 				
 				"content_html": "<p>Fire in the sky</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Fire in the sky\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/96f085657c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Fire in the sky\n\n<img src=\"uploads/2022/96f085657c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-07T20:11:57+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/07/fire-in-the.html"
 			},
@@ -492,7 +524,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/07/stunning.html",
 				
 				"content_html": "<p>Stunning</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Stunning \n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/cd398d1cae.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Stunning \n\n<img src=\"uploads/2022/cd398d1cae.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-07T18:46:34+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/07/stunning.html"
 			},
@@ -500,7 +532,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/06/hope-they-dont.html",
 				
 				"content_html": "<p>Hope they don’t dig too deep</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hope they don’t dig too deep\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/7fef0ecf54.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Hope they don’t dig too deep\n\n<img src=\"uploads/2022/7fef0ecf54.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-06T20:28:49+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/06/hope-they-dont.html"
 			},
@@ -508,7 +540,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/05/bunny.html",
 				
 				"content_html": "<p>Bunny</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Bunny\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/59a6ad51a7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Bunny\n\n<img src=\"uploads/2022/59a6ad51a7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-05T16:26:03+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/05/bunny.html"
 			},
@@ -516,7 +548,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/04/the-void.html",
 				
 				"content_html": "<p>The void</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The void\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/ee8fbebdc6.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "The void\n\n<img src=\"uploads/2022/ee8fbebdc6.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-04T22:22:08+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/04/the-void.html"
 			},
@@ -524,7 +556,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/03/cordon-bleu.html",
 				
 				"content_html": "<p>Cordon Bleu</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Cordon Bleu\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/e043a0140f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Cordon Bleu\n\n<img src=\"uploads/2022/e043a0140f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-04-03T13:57:07+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/03/cordon-bleu.html"
 			},
@@ -532,7 +564,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/02/bei-vielen-menschen.html",
 				
 				"content_html": "<p>Bei vielen Menschen heißt das dass die Intelligenz um 700% steigt. Bonuslacher für alle, die Prozentrechnung verstanden haben.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Bei vielen Menschen heißt das dass die Intelligenz um 700% steigt. Bonuslacher für alle, die Prozentrechnung verstanden haben. \n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/0b5da79e03.jpg\" width=\"600\" height=\"584\" alt=\"\" />\n",
+				"content_text": "Bei vielen Menschen heißt das dass die Intelligenz um 700% steigt. Bonuslacher für alle, die Prozentrechnung verstanden haben. \n\n<img src=\"uploads/2022/0b5da79e03.jpg\" width=\"600\" height=\"584\" alt=\"\" />\n",
 				"date_published": "2022-04-02T11:42:56+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/02/bei-vielen-menschen.html"
 			},
@@ -548,7 +580,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/02/german-summer-incoming.html",
 				
 				"content_html": "<p>German Summer incoming</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "German Summer incoming \n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/f6a03b492a.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n",
+				"content_text": "German Summer incoming \n\n<img src=\"uploads/2022/f6a03b492a.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-02T00:30:27+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/02/german-summer-incoming.html"
 			},
@@ -556,7 +588,7 @@
 				"id": "http://TabTwo.micro.blog/2022/04/01/nightwatch.html",
 				
 				"content_html": "<p>Nightwatch</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nightwatch\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/ab821e0443.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Nightwatch\n\n<img src=\"uploads/2022/ab821e0443.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-01T12:40:39+02:00",
 				"url": "https://www.the-sprawl.blog/2022/04/01/nightwatch.html"
 			},
@@ -572,7 +604,7 @@
 				"id": "http://TabTwo.micro.blog/2022/03/31/magnolia.html",
 				
 				"content_html": "<p>Magnolia</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Magnolia \n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/7aaf778a3c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Magnolia \n\n<img src=\"uploads/2022/7aaf778a3c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-31T16:43:41+02:00",
 				"url": "https://www.the-sprawl.blog/2022/03/31/magnolia.html"
 			},
@@ -580,7 +612,7 @@
 				"id": "http://TabTwo.micro.blog/2022/03/30/why-the-long.html",
 				
 				"content_html": "<p>Why the long face</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Why the long face\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/f61725685f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Why the long face\n\n<img src=\"uploads/2022/f61725685f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-30T17:28:37+02:00",
 				"url": "https://www.the-sprawl.blog/2022/03/30/why-the-long.html"
 			},
@@ -588,7 +620,7 @@
 				"id": "http://TabTwo.micro.blog/2022/03/29/mechanic-in-training.html",
 				
 				"content_html": "<p>Mechanic in training</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Mechanic in training \n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/438597ea08.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Mechanic in training \n\n<img src=\"uploads/2022/438597ea08.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-29T12:16:30+02:00",
 				"url": "https://www.the-sprawl.blog/2022/03/29/mechanic-in-training.html"
 			},
@@ -596,7 +628,7 @@
 				"id": "http://TabTwo.micro.blog/2022/03/28/mimosas.html",
 				
 				"content_html": "<p>Mimosas</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Mimosas\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/a710ff18db.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Mimosas\n\n<img src=\"uploads/2022/a710ff18db.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-28T19:10:56+02:00",
 				"url": "https://www.the-sprawl.blog/2022/03/28/mimosas.html"
 			},
@@ -604,7 +636,7 @@
 				"id": "http://TabTwo.micro.blog/2022/03/27/sternmagnolie.html",
 				
 				"content_html": "<p>Sternmagnolie</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sternmagnolie\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/dbaec4c9bf.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Sternmagnolie\n\n<img src=\"uploads/2022/dbaec4c9bf.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-27T11:49:48+02:00",
 				"url": "https://www.the-sprawl.blog/2022/03/27/sternmagnolie.html"
 			},
@@ -612,7 +644,7 @@
 				"id": "http://TabTwo.micro.blog/2022/03/26/falcons-and-chicken.html",
 				
 				"content_html": "<p>Falcons and Chicken</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Falcons and Chicken\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/3beedf34a7.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.the-sprawl.blog/uploads/2022/1122c6f2a1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.the-sprawl.blog/uploads/2022/5bae3674e9.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Falcons and Chicken\n\n<img src=\"uploads/2022/3beedf34a7.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/1122c6f2a1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/5bae3674e9.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-26T17:45:22+02:00",
 				"url": "https://www.the-sprawl.blog/2022/03/26/falcons-and-chicken.html"
 			},
@@ -620,7 +652,7 @@
 				"id": "http://TabTwo.micro.blog/2022/03/25/im-at-my.html",
 				
 				"content_html": "<p>I‘m at my happy place</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I‘m at my happy place\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/7148d1cb72.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I‘m at my happy place\n\n<img src=\"uploads/2022/7148d1cb72.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-25T11:51:41+02:00",
 				"url": "https://www.the-sprawl.blog/2022/03/25/im-at-my.html"
 			},
@@ -628,7 +660,7 @@
 				"id": "http://TabTwo.micro.blog/2022/03/24/breakfast-at-brettach.html",
 				
 				"content_html": "<p>Breakfast at Brettach</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Breakfast at Brettach \n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/3a321b8276.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.the-sprawl.blog/uploads/2022/3e01b48b1d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Breakfast at Brettach \n\n<img src=\"uploads/2022/3a321b8276.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/3e01b48b1d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-24T10:58:48+02:00",
 				"url": "https://www.the-sprawl.blog/2022/03/24/breakfast-at-brettach.html"
 			},
@@ -636,7 +668,7 @@
 				"id": "http://TabTwo.micro.blog/2022/03/23/lost.html",
 				
 				"content_html": "<p>Lost</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lost\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/762cabf2a9.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Lost\n\n<img src=\"uploads/2022/762cabf2a9.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-23T19:55:31+02:00",
 				"url": "https://www.the-sprawl.blog/2022/03/23/lost.html"
 			},
@@ -644,7 +676,7 @@
 				"id": "http://TabTwo.micro.blog/2022/03/22/spaceship-just-arrived.html",
 				
 				"content_html": "<p>Spaceship just arrived</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spaceship just arrived \n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/29f197c8be.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Spaceship just arrived \n\n<img src=\"uploads/2022/29f197c8be.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-22T20:15:00+02:00",
 				"url": "https://www.the-sprawl.blog/2022/03/22/spaceship-just-arrived.html"
 			},
@@ -652,7 +684,7 @@
 				"id": "http://TabTwo.micro.blog/2022/03/21/geoff-tate-live.html",
 				
 				"content_html": "<p>Geoff Tate - live at Wizemann - Stuttgart</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Geoff Tate - live at Wizemann - Stuttgart\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/211ae9f1fb.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Geoff Tate - live at Wizemann - Stuttgart\n\n<img src=\"uploads/2022/211ae9f1fb.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-03-21T22:28:22+02:00",
 				"url": "https://www.the-sprawl.blog/2022/03/21/geoff-tate-live.html"
 			},
@@ -660,7 +692,7 @@
 				"id": "http://TabTwo.micro.blog/2022/03/21/tunnel.html",
 				
 				"content_html": "<p>Tunnel</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tunnel\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/2cd29fe752.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Tunnel\n\n<img src=\"uploads/2022/2cd29fe752.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-21T12:58:17+02:00",
 				"url": "https://www.the-sprawl.blog/2022/03/21/tunnel.html"
 			},
@@ -676,7 +708,7 @@
 				"id": "http://TabTwo.micro.blog/2022/03/20/what-are-you.html",
 				
 				"content_html": "<p>What are you sinking about?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "What are you sinking about?\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/97065c4f8d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "What are you sinking about?\n\n<img src=\"uploads/2022/97065c4f8d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-20T17:32:18+02:00",
 				"url": "https://www.the-sprawl.blog/2022/03/20/what-are-you.html"
 			},
@@ -692,7 +724,7 @@
 				"id": "http://TabTwo.micro.blog/2022/03/19/pizza-from-scratch.html",
 				
 				"content_html": "<p>Pizza from scratch</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Pizza from scratch \n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/5d97084604.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Pizza from scratch \n\n<img src=\"uploads/2022/5d97084604.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-19T21:06:52+02:00",
 				"url": "https://www.the-sprawl.blog/2022/03/19/pizza-from-scratch.html"
 			},
@@ -700,7 +732,7 @@
 				"id": "http://TabTwo.micro.blog/2022/03/19/princess-food.html",
 				
 				"content_html": "<p>Princess food</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Princess food\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/fc15249cdf.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Princess food\n\n<img src=\"uploads/2022/fc15249cdf.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-19T09:47:52+02:00",
 				"url": "https://www.the-sprawl.blog/2022/03/19/princess-food.html"
 			},
@@ -708,7 +740,7 @@
 				"id": "http://TabTwo.micro.blog/2022/03/18/homeoffice-is-hard.html",
 				
 				"content_html": "<p>Homeoffice is hard</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Homeoffice is hard\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/68057e25b4.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Homeoffice is hard\n\n<img src=\"uploads/2022/68057e25b4.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-18T14:27:47+02:00",
 				"url": "https://www.the-sprawl.blog/2022/03/18/homeoffice-is-hard.html"
 			},
@@ -725,7 +757,7 @@
 				"id": "http://TabTwo.micro.blog/2022/03/17/forsythie.html",
 				
 				"content_html": "<p>Forsythie</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Forsythie\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/677380a7b8.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Forsythie\n\n<img src=\"uploads/2022/677380a7b8.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-17T13:06:18+02:00",
 				"url": "https://www.the-sprawl.blog/2022/03/17/forsythie.html"
 			},
@@ -733,7 +765,7 @@
 				"id": "http://TabTwo.micro.blog/2022/03/16/local-park.html",
 				
 				"content_html": "<p>local park</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "local park\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/fc04907d07.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "local park\n\n<img src=\"uploads/2022/fc04907d07.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-16T13:28:03+02:00",
 				"url": "https://www.the-sprawl.blog/2022/03/16/local-park.html"
 			},
@@ -741,7 +773,7 @@
 				"id": "http://TabTwo.micro.blog/2022/03/15/kleiner-wasserschaden.html",
 				
 				"content_html": "<p>Kleiner Wasserschaden</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Kleiner Wasserschaden\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/9a8da51b81.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://www.the-sprawl.blog/uploads/2022/3fa628504d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Kleiner Wasserschaden\n\n<img src=\"uploads/2022/9a8da51b81.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/3fa628504d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-15T12:54:28+02:00",
 				"url": "https://www.the-sprawl.blog/2022/03/15/kleiner-wasserschaden.html"
 			},
@@ -749,7 +781,7 @@
 				"id": "http://TabTwo.micro.blog/2022/03/14/mondays-are-the.html",
 				
 				"content_html": "<p>Mondays are the best days</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Mondays are the best days\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/12195d1bc4.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Mondays are the best days\n\n<img src=\"uploads/2022/12195d1bc4.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-14T11:26:50+02:00",
 				"url": "https://www.the-sprawl.blog/2022/03/14/mondays-are-the.html"
 			},
@@ -757,7 +789,7 @@
 				"id": "http://TabTwo.micro.blog/2022/03/13/just-a-common.html",
 				
 				"content_html": "<p>Just a common bitch</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Just a common bitch\n\n<img src=\"https://www.the-sprawl.blog/uploads/2022/543d9338d3.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Just a common bitch\n\n<img src=\"uploads/2022/543d9338d3.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-13T10:36:00+02:00",
 				"url": "https://www.the-sprawl.blog/2022/03/13/just-a-common.html",
 				"tags": ["B99"]
